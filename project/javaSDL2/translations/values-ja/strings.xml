@@ -39,31 +39,31 @@
     <string name="controls_screenkb">On-screen keyboard</string>
     <string name="controls_accelnav">Accelerometer</string>
 
-    <string name="controls_screenkb_size">On-screen keyboard size</string>
-    <string name="controls_screenkb_drawsize">Size of button images</string>
-    <string name="controls_screenkb_large">Large</string>
-    <string name="controls_screenkb_medium">Medium</string>
-    <string name="controls_screenkb_small">Small</string>
-    <string name="controls_screenkb_tiny">Tiny</string>
-    <string name="controls_screenkb_custom">Custom</string>
-    <string name="controls_screenkb_theme">On-screen keyboard theme</string>
+    <string name="controls_screenkb_size">オンスクリーンキーボードの大きさ</string>
+    <string name="controls_screenkb_drawsize">ボタン画像のサイズ</string>
+    <string name="controls_screenkb_large">大</string>
+    <string name="controls_screenkb_medium">中</string>
+    <string name="controls_screenkb_small">小</string>
+    <string name="controls_screenkb_tiny">極小</string>
+    <string name="controls_screenkb_custom">カスタム</string>
+    <string name="controls_screenkb_theme">オンスクリーンキーボードのテーマ</string>
     <string name="controls_screenkb_by">%1$s by %2$s</string>
-    <string name="controls_screenkb_transparency">On-screen keyboard transparency</string>
-    <string name="controls_screenkb_trans_0">Invisible</string>
-    <string name="controls_screenkb_trans_1">Almost invisible</string>
-    <string name="controls_screenkb_trans_2">Transparent</string>
-    <string name="controls_screenkb_trans_3">Semi-transparent</string>
-    <string name="controls_screenkb_trans_4">Non-transparent</string>
+    <string name="controls_screenkb_transparency">オンスクリーンキーボードの不透明度</string>
+    <string name="controls_screenkb_trans_0">透明</string>
+    <string name="controls_screenkb_trans_1">少し透明</string>
+    <string name="controls_screenkb_trans_2">少し不透明t</string>
+    <string name="controls_screenkb_trans_3">半透明</string>
+    <string name="controls_screenkb_trans_4">不透明</string>
 
     <string name="trackball_no_dampening">No dampening</string>
-    <string name="trackball_fast">Fast</string>
-    <string name="trackball_medium">Medium</string>
-    <string name="trackball_slow">Slow</string>
+    <string name="trackball_fast">速い</string>
+    <string name="trackball_medium"普通</string>
+    <string name="trackball_slow">遅い</string>
     <string name="trackball_question">Trackball dampening</string>
 
-    <string name="accel_veryfast">Very fast</string>
-    <string name="accel_fast">Fast</string>
-    <string name="accel_medium">Medium</string>
+    <string name="accel_veryfast">とても速い</string>
+    <string name="accel_fast">速い</string>
+    <string name="accel_medium">普通</string>
     <string name="accel_slow">Slow</string>
     <string name="accel_veryslow">Very slow</string>
     <string name="accel_question">Accelerometer sensitivity</string>
@@ -73,15 +73,15 @@
     <string name="accel_fixed_horiz">Fixed to table desk orientation</string>
     <string name="accel_question_center">Accelerometer center position</string>
 
-    <string name="mouse_emulation">Mouse emulation</string>
-    <string name="rightclick_question">Right mouse click</string>
+    <string name="mouse_emulation">マウスエミュレーション</string>
+    <string name="rightclick_question">右クリック</string>
     <string name="rightclick_menu">Menu key</string>
-    <string name="rightclick_key">Physical key</string>
-    <string name="rightclick_multitouch">Touch screen with second finger</string>
+    <string name="rightclick_key">物理ボタン</string>
+    <string name="rightclick_multitouch">2本指を使ったタッチ</string>
     <string name="rightclick_pressure">Touch screen with force</string>
     <string name="rightclick_none">Disable right mouse click</string>
 
-    <string name="leftclick_question">Left mouse click</string>
+    <string name="leftclick_question">左クリック</string>
     <string name="leftclick_normal">Normal</string>
     <string name="leftclick_near_cursor">Touch near mouse cursor</string>
     <string name="leftclick_multitouch">Touch screen with second finger</string>
@@ -98,11 +98,11 @@
     <string name="leftclick_timeout_time_4">1.5 sec</string>
     <string name="click_with_dpadcenter">Left mouse click with trackball / joystick center</string>
 
-    <string name="advanced">Advanced features</string>
-    <string name="mouse_keepaspectratio">Keep 4:3 screen aspect ratio</string>
+    <string name="advanced">詳細設定</string>
+    <string name="mouse_keepaspectratio">アスペクト比を4:3に固定</string>
     <string name="mouse_showcreenunderfinger">Show screen under finger in separate window</string>
     <string name="mouse_showcreenunderfinger2">On-screen magnifying glass</string>
-    <string name="mouse_joystickmouse">Move mouse with joystick or trackball</string>
+    <string name="mouse_joystickmouse">ジョイスティックやトラックボールを使ってマウスを操作</string>
     <string name="mouse_joystickmousespeed">Move mouse with joystick speed</string>
     <string name="mouse_joystickmouseaccel">Move mouse with joystick acceleration</string>
     <string name="mouse_relative">Relative mouse movement (laptop mode)</string>
@@ -114,7 +114,7 @@
     <string name="mouse_finger_hover">Finger hover</string>
     <string name="mouse_subframe_touch_events">Multiple touch events per video frame</string>
 
-    <string name="none">None</string>
+    <string name="none">なし</string>
 
     <string name="measurepressure">Calibrate touchscreen pressure</string>
     <string name="measurepressure_touchplease">Please slide finger across the screen for two seconds</string>
@@ -126,13 +126,13 @@
     <string name="audiobuf_large">Large (older devices, if sound is choppy)</string>
     <string name="audiobuf_question">Size of audio buffer</string>
 
-    <string name="remap_hwkeys">Remap physical keys</string>
-    <string name="remap_hwkeys_press">Press any key except HOME and POWER, you may use volume keys</string>
+    <string name="remap_hwkeys">物理ボタンへの割当を変更</string>
+    <string name="remap_hwkeys_press">電源ボタンとホームボタンを除くいずれかのボタンを押してください。音量ボタンを使っても問題ありません。</string>
     <string name="remap_hwkeys_select">Select SDL keycode</string>
-    <string name="remap_hwkeys_select_simple">Select action</string>
+    <string name="remap_hwkeys_select_simple">アクションを選択</string>
     <string name="remap_hwkeys_select_more_keys">Show all keycodes</string>
 
-    <string name="remap_screenkb">Remap on-screen controls</string>
+    <string name="remap_screenkb">オンスクリーンボタンの配置を変更</string>
     <string name="remap_screenkb_joystick">Joystick</string>
     <string name="remap_screenkb_button">Button</string>
     <string name="remap_screenkb_button_text">Text input button</string>
@@ -150,13 +150,13 @@
     <string name="calibrate_touchscreen">Calibrate touchscreen</string>
     <string name="calibrate_touchscreen_touch">Touch all edges of the screen, press BACK when done</string>
 
-    <string name="video">Video settings</string>
+    <string name="video">映像設定</string>
     <string name="video_smooth">Linear video filtering</string>
     <string name="video_separatethread">Separate thread for video, it can increase FPS, it also can crash the app</string>
     <string name="video_orientation_vertical">Portrait/vertical screen orientation</string>
-    <string name="video_orientation_autodetect">Auto-detect screen orientation</string>
+    <string name="video_orientation_autodetect">画面の向きを自動検出する</string>
     <string name="video_bpp_24">24 bpp screen color depth</string>
-    <string name="video_immersive">Hide system navigation buttons / immersive mode</string>
+    <string name="video_immersive">システムのナビゲーションバーを隠す / イマーシブモード</string>
 
     <string name="text_edit_click_here">Tap to start typing, press Back when done</string>
 
@@ -168,7 +168,7 @@
     <string name="display_size_tiny">Tiny</string>
     <string name="display_size_tiny_touchpad">Tiny, touchpad mode</string>
 
-    <string name="show_more_options">Show more options</string>
+    <string name="show_more_options">その他の設定を表示</string>
 
     <string name="hardware_mouse_detected">Hardware mouse detected, disabling mouse emulation</string>
 
@@ -176,24 +176,24 @@
     <string name="not_enough_ram_size">This app needs %1$d Mb RAM, your device has %2$d Mb</string>
     <string name="ignore">Ignore</string>
 
-    <string name="calibrate_gyroscope">Calibrate gyroscope</string>
-    <string name="calibrate_gyroscope_text">Put your device on a flat surface</string>
-    <string name="calibrate_gyroscope_not_supported">Your device does not have gyroscope</string>
+    <string name="calibrate_gyroscope">加速度センサーの補正</string>
+    <string name="calibrate_gyroscope_text">お使いのデバイスを平らな場所に置いてください</string>
+    <string name="calibrate_gyroscope_not_supported"お使いのデバイスには加速度センサーがありません</string>
 
-    <string name="reset_config">Reset config to defaults</string>
-    <string name="reset_config_ask">Reset all options to default values?</string>
+    <string name="reset_config">初期設定に戻す</string>
+    <string name="reset_config_ask">すべての設定を初期値に戻しますか？</string>
 
-    <string name="cancel_download">Cancel data downloading?</string>
-    <string name="cancel_download_resume">You can resume it later, the data will not be downloaded twice.</string>
-    <string name="yes">Yes</string>
-    <string name="no">No</string>
+    <string name="cancel_download">データダウンロードを中止しますか？</string>
+    <string name="cancel_download_resume">後ほど再開することができます。その際、データが二重にダウンロードされることはありません。</string>
+    <string name="yes">はい</string>
+    <string name="no">いいえ</string>
 
     <!-- Play Game Services strings -->
-    <string name="gamehelper_sign_in_failed">Failed to sign in. Please check your network connection and try again.</string>
+    <string name="gamehelper_sign_in_failed">サインインに失敗しました。ネットワーク接続形態を確認の上、再度お試しください。</string>
     <string name="gamehelper_app_misconfigured">The application is incorrectly configured. Check that the package name and signing certificate match the client ID created in Developer Console. Also, if the application is not yet published, check that the account you are trying to sign in with is listed as a tester account. See logs for more information.</string>
-    <string name="gamehelper_license_failed">License check failed.</string>
-    <string name="gamehelper_unknown_error">Unknown error.</string>
-    <string name="accessing_network">Accessing network, please wait</string>
+    <string name="gamehelper_license_failed">ライセンス認証に失敗しました。</string>
+    <string name="gamehelper_unknown_error">未知エラー</string>
+    <string name="accessing_network">ネットワークに接続しています。しばらくお待ちください。</string>
 
     <string name="google_play_game_services_app_id" translatable="false">==GOOGLEPLAYGAMESERVICES_APP_ID==</string>
 
