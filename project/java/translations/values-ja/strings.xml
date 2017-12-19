@@ -5,15 +5,15 @@
     <string name="app_name">Commander Genius</string>
 
 
-    <string name="init">Initializing</string>
-    <string name="please_wait">Please wait while data is being downloaded</string>
+    <string name="init">初期化しています</string>
+    <string name="please_wait">データをダウンロードしています。しばらくお待ちください。</string>
 
-    <string name="device_config">Device configuration</string>
-    <string name="device_change_cfg">Change device configuration</string>
+    <string name="device_config">アプリ設定</string>
+    <string name="device_change_cfg">アプリ設定を変更する</string>
 
-    <string name="download_unneeded">No need to download</string>
-    <string name="connecting_to">Connecting to %s</string>
-    <string name="failed_connecting_to">Failed connecting to %s</string>
+    <string name="download_unneeded">ダウンロードが必要なものはありません</string>
+    <string name="connecting_to">%s に接続しています</string>
+    <string name="failed_connecting_to">%s への接続に失敗しました</string>
     <string name="error_connecting_to">Error connecting to %s</string>
     <string name="dl_from">Downloading data from %s</string>
     <string name="error_dl_from">Error downloading data from %s</string>
