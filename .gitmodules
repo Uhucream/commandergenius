@@ -78,6 +78,3 @@
 [submodule "project/jni/application/liero/src"]
 	path = project/jni/application/liero/src
 	url = https://github.com/pelya/liero-android.git
-[submodule "project/jni/application/xserver-debian/xserver"]
-	path = project/jni/application/xserver-debian/xserver
-	url = https://github.com/pelya/xserver-xsdl.git
